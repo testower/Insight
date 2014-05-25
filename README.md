@@ -29,7 +29,8 @@ Underordnede mål som skal bidra til økt boklesing ved å gjøre bøker lettere
 
 ![4. ](http://photos-e.ak.instagram.com/hphotos-ak-prn/925496_295102020655900_1149333439_n.jpg)
 
-> Hvor står Leser Søker Bok nå med sin hjemmeside og sitt digitale verktøy "Boksøk"?
+> Hvor står Leser Søker Bok i dag?
+Hvor står Leser Søker Bok nå med sin hjemmeside og sitt digitale verktøy "Boksøk"?
 Hvor står Leser Søker Bok nå med digitale verktøy som de bruker til å kommunisere med bibliotekarer, lærere, leseombud og foreldre?
 Hvor enkle er de digitale verktøyene å bruke?
 Hvile problemer løser de digitale verktøyene?
@@ -39,7 +40,7 @@ Hvilken verdi gir de til brukerne?
 
 ![5. ](http://photos-c.ak.instagram.com/hphotos-ak-prn/1168852_739706389386226_2004069829_n.jpg)
 
-> I første rekke skal vi se på påstanden «boksok.no er vanskelig å bruke» og velge en brukergruppe. Vi velger biblotekarer fordi de er villige til å stille opp på raskt varsel.
+> I første rekke skal vi se på påstanden «boksok.no er vanskelig å bruke» og velge en brukergruppe. Vi velger biblotekarer fordi de er villige til å stille opp på kort varsel.
 
 Lilly Labs lager en prototype og tester den på bibliotekarene som allerede bruker boksok.no aktivt. Her er læringsmålene for brukbarhetstesten:
 
@@ -57,7 +58,9 @@ Lilly Labs lager en prototype og tester den på bibliotekarene som allerede bruk
 
 ![7. ](http://photos-d.ak.instagram.com/hphotos-ak-frc/1742791_463754097101875_1743184789_n.jpg)
 
-> Ola, Benedicte og Vegar bruker en dag på brukbarhetstesting med påfølgende idémyldring. Vi brukbarhetstester også lignende systemer for å lete etter ting som kan fungere for Boksøk. 
+> Ola, Benedicte og Vegar bruker en dag på brukbarhetstesting med påfølgende idémyldring. 
+
+Vi brukbarhetstester også lignende systemer for å lete etter ting som kan fungere for Boksøk. 
 • 4 bibliotekarer på 2 bibliotek i Oslo 
 • Test av boksok.no, ebok.no og ark.no 
 
@@ -75,7 +78,7 @@ Workshop med alle involvert fra Lilly Labs og Leser søker bok.
 
 ![8. ](http://photos-h.ak.instagram.com/hphotos-ak-ash/10358376_793904697294479_959716765_n.jpg)
 
-> Price.
+> Pris er 1050 kroner timen.
 
 Timer
 
